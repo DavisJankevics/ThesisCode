@@ -1,0 +1,16 @@
+
+*.wav
+*.m4a
+*.npy
+*.csv
+*.mid
+__pycache__/
+.cookie
+.conda
+
+output
+AMT/MyAMT/src/data/2008
+mss/Lib
+mss/Scripts
+mss/src/logs
+mss/src/saved_models
